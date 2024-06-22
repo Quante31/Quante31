@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Quante31
-- 👀 I’m interested in code projects like desktop apps, backend, algorithms and etc.
+- 👀 I’m interested in code projects like machine learning, AI, backend, algorithms and etc.
 - 🌱 I’m currently learning golang, java
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me: discord -> wylsacom#9200
