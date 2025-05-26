@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 - 🔭 I’m interested in all kinds of projects about gamedev, ML, web, graphics, desktop apps.
 - 🌱 Looking to collaborate on any sorts of projects.
-- 📫 Contact me: [Your email](mailto:wmvv31415@gmail.com) | Discord: wylsacom
+- 📫 Contact me: [Email](mailto:wmvv31415@gmail.com) | Discord: wylsacom
 
 <!---
 Quante31/Quante31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
